@@ -1,5 +1,8 @@
 # MS-Project_Peerless
 
+**GitHub Link:** https://github.com/toarnabtrainer/MS-Project_Peerless<br>
+**or** https://tinyurl.com/54jum4xy
+
 **PERT - Program Evaluation Review Technique**<br>
 **Three-point analysis:**<br>
 * **Most Likely Estimate (M)** = Estimate of the most likely value of the duration <br>
