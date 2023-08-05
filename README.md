@@ -21,7 +21,7 @@ https://www.pinnaclemanagement.com/blog/earned-value-management-an-introduction#
 * **Project 2021 Beginner Tutorial (2 Hours 27 Minutes):** https://www.youtube.com/watch?v=l3ypMRwW9tc
 * **Project 2021 Advanced Tutorial (3 Hours 11 inutes):** https://www.youtube.com/watch?v=NnVLgvvkBo8
 * **Project 2019 Advanced Tutorial (2 Hours 10 inutes):** https://www.youtube.com/watch?v=xc38Om2HtBA
-* **MS-Project 2016 Step by Step Tutorial PDF:** https://totsoltechnologies-my.sharepoint.com/:b:/g/personal/contact_totsoltechnologies_onmicrosoft_com/EXqgt5DTX4dMiV9cVUUFSI4Ba7K5s-Ylcy4Scvju-I862A?e=BCrux7
+* **MS-Project 2016 Step by Step Tutorial PDF:** https://tinyurl.com/bdfauhz8
 
 **PERT Calculations in MS-Project:**
 Based on the problem given in the file "Introduction to Project Management.pptx"
