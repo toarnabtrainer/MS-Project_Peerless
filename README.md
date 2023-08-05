@@ -36,3 +36,13 @@ Int([Number4])>=0.5,Int([Number4])+1,Int([Number4]))<br>
 * My_PERT_Floor (Number7) => Int([Number4])<br>
 * My_PERT_Variance (Number8) => (([Number3]-[Number1])/6)^2<br>
 * My_PERT_StdDev (Number9) => Sqr([Number8])<br>
+
+**MS-Office/O365 Reference Tutorial Links -**<br>
+* **MS-Office 2007:** https://edu.gcfglobal.org/en/topics/office2007/
+* **MS-Office 2010:** https://edu.gcfglobal.org/en/topics/office2010/
+* **MS-Office 2013:** https://edu.gcfglobal.org/en/topics/office2013/
+* **MS-Office 2016:** https://edu.gcfglobal.org/en/topics/office2016/
+* **MS-Excel Formulas:** https://edu.gcfglobal.org/en/excelformulas/
+* **50 Tips to Master Excel ebook:** https://drive.google.com/file/d/0ByEvd0vhZtF3Zm9tY09YNWpuUnM/view
+* **How to remove password from an Excel Worksheet:** https://www.youtube.com/watch?v=fsVb6id97_E&list=PLmkaw6oRnRv9uEamCt-PXS-bP-rmoxcLc&index=3
+* **MS-Excel Cheat Sheet:**	https://drive.google.com/file/d/1dGDoOiIhFFD71FxUxMO-ZYYE2UYLNGhR/view?usp=sharing
